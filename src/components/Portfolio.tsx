@@ -96,7 +96,7 @@ export default function Portfolio() {
 													Live Site{" "}
 													<div className="relative w-[20px] h-[20px]">
 														<Image
-															src="/arrowtopright.svg"
+															src="./arrowtopright.svg"
 															alt="follow link to linkedin"
 															fill
 															className="fill-orange-300"
