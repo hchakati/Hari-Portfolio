@@ -58,6 +58,18 @@ const items = [
 		label: "Flowing Image",
 		src: "./flowingimage.png",
 	},
+	{
+		id: "8",
+		live: "https://codepen.io/Sai-Srujana-the-flexboxer/pen/BagobOZ",
+		label: "Gorillas",
+		src: "./gorilla.png",
+	},
+	{
+		id: "9",
+		live: "https://codepen.io/Sai-Srujana-the-flexboxer/pen/eYwpXPb",
+		label: "Overly Aware Cat",
+		src: "./overly.png",
+	},
 ] as const;
 
 export default function Portfolio() {

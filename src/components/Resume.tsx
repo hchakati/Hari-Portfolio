@@ -32,21 +32,21 @@ export default function Resume() {
 						</div>
 						<div className="flex h-[12vh] rounded-[5px] p-2 w-full border border-transparent border-b-neutral-900 hover:border-teal-600 hover:bg-neutral-900 ">
 							<div className="w-1/2 flex flex-col gap-2">
-								<p className="text-[24px] font-semibold">Innoplex</p>
-								<p className="text-[12px] md:text-[14px] font-light">
-									Pune, India
-								</p>
-							</div>
-							<div className="w-1/2 text-end">12/2018 - 11/2020</div>
-						</div>
-						<div className="flex h-[12vh] rounded-[5px] p-2 w-full border border-transparent border-b-neutral-900 hover:border-teal-600 hover:bg-neutral-900 ">
-							<div className="w-1/2 flex flex-col gap-2">
 								<p className="text-[24px] font-semibold">GlobalMed</p>
 								<p className="text-[12px] md:text-[14px] font-light">
 									Scottsdale, AZ
 								</p>
 							</div>
 							<div className="w-1/2 text-end">06/2017 - 11/2018</div>
+						</div>
+						<div className="flex h-[12vh] rounded-[5px] p-2 w-full border border-transparent border-b-neutral-900 hover:border-teal-600 hover:bg-neutral-900 ">
+							<div className="w-1/2 flex flex-col gap-2">
+								<p className="text-[24px] font-semibold">Innoplex</p>
+								<p className="text-[12px] md:text-[14px] font-light">
+									Pune, India
+								</p>
+							</div>
+							<div className="w-1/2 text-end">12/2018 - 11/2020</div>
 						</div>
 					</div>
 				</div>
