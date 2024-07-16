@@ -102,7 +102,7 @@ export default function Header() {
 										<div className="text-[32px] lg:text-[64px] px-2 md:px-5 tracking-tighter py-2 lg:py-4  hover:bg-white hover:text-black rounded-lg">
 											<SheetClose asChild>
 												<Link href="#contacts">
-													<p>Contacts</p>
+													<p>Contact Me</p>
 												</Link>
 											</SheetClose>
 										</div>
