@@ -47,7 +47,7 @@ export default function Contact() {
 							Hire Me{" "}
 							<div className="relative w-[20px] h-[20px]">
 								<Image
-									src="/arrowtopright.svg"
+									src="./arrowtopright.svg"
 									alt="follow link to linkedin"
 									fill
 									className="fill-orange-300"
@@ -72,7 +72,7 @@ export default function Contact() {
 							LinkedIn{" "}
 							<div className="relative w-[20px] h-[20px]">
 								<Image
-									src="/arrowtopright.svg"
+									src="./arrowtopright.svg"
 									alt="follow link to linkedin"
 									fill
 									className="fill-orange-300"
@@ -91,7 +91,7 @@ export default function Contact() {
 							Github{" "}
 							<div className="relative w-[20px] h-[20px]">
 								<Image
-									src="/arrowtopright.svg"
+									src="./arrowtopright.svg"
 									alt="follow link to linkedin"
 									fill
 									className="fill-orange-300"
@@ -111,7 +111,7 @@ export default function Contact() {
 							Download Resume{" "}
 							<div className="relative w-[20px] h-[20px]">
 								<Image
-									src="/docsave.svg"
+									src="./docsave.svg"
 									alt="follow link to linkedin"
 									fill
 									className="fill-orange-300"
@@ -134,7 +134,7 @@ export default function Contact() {
 							srujanakalagani8@gmail.com{" "}
 							<div className="relative w-[20px] h-[20px]">
 								<Image
-									src="/arrowtopright.svg"
+									src="./arrowtopright.svg"
 									alt="follow link to linkedin"
 									fill
 									className="fill-orange-300"

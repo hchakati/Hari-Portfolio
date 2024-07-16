@@ -121,7 +121,7 @@ export default function Header() {
 														Github{" "}
 														<div className="hidden md:inline relative w-[20px] h-[20px]">
 															<Image
-																src="/arrowtopright.svg"
+																src="./arrowtopright.svg"
 																alt="follow link to linkedin"
 																fill
 																className="fill-orange-300"
@@ -143,7 +143,7 @@ export default function Header() {
 													srujanakalagani8@gmail.com{" "}
 													<div className="hidden md:inline relative w-[20px] h-[20px]">
 														<Image
-															src="/arrowtopright.svg"
+															src="./arrowtopright.svg"
 															alt="follow link to linkedin"
 															fill
 															className="fill-orange-300"
@@ -164,7 +164,7 @@ export default function Header() {
 													LinkedIn{" "}
 													<div className="hidden md:inline relative w-[20px] h-[20px]">
 														<Image
-															src="/arrowtopright.svg"
+															src="./arrowtopright.svg"
 															alt="follow link to linkedin"
 															fill
 															className="fill-orange-300"
