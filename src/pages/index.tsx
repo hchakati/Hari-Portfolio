@@ -8,7 +8,7 @@ export default function Home() {
     <main
       className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}
     >
-      <h1>Initial Portfolio setup</h1>
+      <h1>Intial Setup of TechStack</h1>
     </main>
   );
 }
