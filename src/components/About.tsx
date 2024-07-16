@@ -48,7 +48,7 @@ export default function About() {
 				>
 					<div className="relative w-full h-full  group-hover:brightness-75 ">
 						<Image
-							src="/saiimage.jpg"
+							src="./saiimage.jpg"
 							alt="holograph image"
 							fill
 							style={{ objectFit: "contain" }}
