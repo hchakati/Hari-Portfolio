@@ -14,7 +14,7 @@ export default function About() {
 					About Me
 				</h2>
 				<p className="text-balance text-[14px] md:text-[16px] leading-[24px] md:leading-[30px] tracking-wide">
-  I am Sai Srujana, a Full Stack Developer with over 7 years of vibrant
+  I am Hari Priya Chakati, a Full Stack Developer with over 7 years of vibrant
   experience in enterprise software application development, testing,
   maintenance, and production support. My passion for creating seamless
   and efficient applications has led me to master both frontend and
@@ -48,7 +48,7 @@ export default function About() {
 				>
 					<div className="relative w-full h-full  group-hover:brightness-75 ">
 						<Image
-							src="./saiimage.jpg"
+							src="./Haripic.jpeg"
 							alt="holograph image"
 							fill
 							style={{ objectFit: "contain" }}
